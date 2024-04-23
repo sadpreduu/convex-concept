@@ -1,5 +1,5 @@
 import React from 'react';
-import './One.css';
+// import './One.css';
 
 const Section1 = () => {
   return (
